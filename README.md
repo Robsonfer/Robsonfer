@@ -2,7 +2,7 @@
 <p align="center">📍 Desenvolvedor em formação — São Paulo, Brasil | Explorador de ideias com código</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Estudando+programa%C3%A7%C3%A3o+com+paix%C3%A3o;Projetos+inspirados+na+realidade;Focado+em+evoluir+um+pouco+todo+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Estudando+programa%C3%A7%C3%A3o+com+paix%C3%A3o;Projetos+inspirados+na+realidade;Focado+em+evolu%C3%A7%C3%A3o+constante" alt="Typing SVG" />
 </p>
 
 ---
