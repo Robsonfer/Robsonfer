@@ -78,7 +78,7 @@ Sou curioso, focado e gosto de entender tudo **com profundidade** — cada linha
 ## 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robson-f-23a672239/)
-[![Email](https://img.shields.io/badge/-robson@email.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:robson.ferreira.dev@gmail.com)
+[![Email](https://img.shields.io/badge/-robson.ferreira.dev@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:robson.ferreira.dev@gmail.com)
 
 ---
 
