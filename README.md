@@ -59,12 +59,16 @@ Sou curioso, focado e gosto de entender tudo **com profundidade** — cada linha
 
 ## 📊 GitHub Stats
 
-<div align="left">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robsonfer&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonfer&layout=compact&theme=tokyonight&hide_border=true)
+
+
+<!-- Quebrado:
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Robsonfer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonfer&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="150"/>
 </div>
 
-<!-- Quebrado:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Robsonfer&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonfer&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
