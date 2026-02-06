@@ -57,7 +57,7 @@ Sou curioso, focado e gosto de entender tudo **com profundidade** — cada linha
 
 ---
 
-<!-- Setor Quebrado:
+<!-- Setor Quebrado: -->
 ## 📊 GitHub Stats
 
 Tentativa de consertar 2:
@@ -77,7 +77,7 @@ Original:
 </div>
  
 ---
--->
+
 
 ## 😄 Curiosidades
 
